@@ -1,0 +1,801 @@
+area,bedrooms,bathrooms,age,location,property_type,furnishing,price
+1027,2,2,9,Bangalore,Builder Floor,Semi-Furnished,9021402
+2931,3,1,10,Pune,Villa,Semi-Furnished,26461278
+2572,1,2,3,Jaipur,Builder Floor,Semi-Furnished,15532907
+902,1,3,18,Delhi,Flat,Unfurnished,8896007
+1603,2,2,26,Jaipur,Flat,Unfurnished,9185260
+2512,1,2,8,Bangalore,Builder Floor,Fully Furnished,25927941
+815,3,2,20,Mumbai,Villa,Unfurnished,11581084
+1949,1,1,13,Bangalore,Builder Floor,Semi-Furnished,17425737
+2141,4,3,0,Bangalore,Builder Floor,Fully Furnished,22304063
+2979,3,2,27,Pune,Villa,Unfurnished,26649451
+2641,2,2,4,Jaipur,Flat,Semi-Furnished,15940216
+878,4,3,19,Pune,Builder Floor,Semi-Furnished,6356562
+943,2,1,27,Pune,Villa,Semi-Furnished,8032714
+2780,4,2,27,Mumbai,Villa,Fully Furnished,45755734
+2754,5,1,5,Delhi,Flat,Semi-Furnished,27455141
+1729,3,1,3,Delhi,Builder Floor,Unfurnished,17113138
+2048,3,3,27,Pune,Villa,Unfurnished,17963223
+2248,3,2,20,Delhi,Flat,Semi-Furnished,22297589
+513,2,2,26,Bangalore,Villa,Fully Furnished,6189552
+2013,5,1,21,Jaipur,Flat,Fully Furnished,13801014
+1965,3,1,0,Bangalore,Builder Floor,Unfurnished,17848728
+531,3,2,29,Bangalore,Builder Floor,Fully Furnished,5385593
+757,5,1,5,Mumbai,Villa,Semi-Furnished,10789659
+715,1,3,10,Bangalore,Flat,Semi-Furnished,6155584
+1323,1,2,30,Mumbai,Flat,Fully Furnished,17963358
+1202,3,2,13,Mumbai,Flat,Unfurnished,14316118
+1490,4,3,0,Mumbai,Builder Floor,Semi-Furnished,17827039
+2744,2,3,22,Delhi,Builder Floor,Semi-Furnished,27304130
+2718,3,1,19,Jaipur,Builder Floor,Semi-Furnished,16167239
+1315,1,2,14,Jaipur,Villa,Semi-Furnished,9172569
+822,5,2,29,Pune,Flat,Semi-Furnished,5869275
+2317,5,1,1,Jaipur,Builder Floor,Unfurnished,13739113
+1728,3,3,8,Bangalore,Flat,Semi-Furnished,15449931
+2873,2,1,10,Jaipur,Villa,Semi-Furnished,20541107
+1824,5,2,28,Mumbai,Flat,Fully Furnished,24803708
+886,1,1,9,Mumbai,Flat,Semi-Furnished,10678316
+1589,4,3,24,Bangalore,Villa,Semi-Furnished,16763866
+935,1,2,14,Pune,Villa,Unfurnished,8154845
+771,3,3,27,Pune,Builder Floor,Fully Furnished,6292776
+869,4,2,25,Bangalore,Villa,Unfurnished,9027172
+2446,5,3,3,Delhi,Villa,Unfurnished,29190166
+1826,5,3,1,Mumbai,Villa,Unfurnished,26439602
+597,5,3,17,Pune,Builder Floor,Semi-Furnished,4384831
+1138,1,2,22,Delhi,Flat,Unfurnished,11100572
+2117,2,2,24,Mumbai,Flat,Fully Furnished,28879648
+2670,3,3,23,Pune,Villa,Unfurnished,23802705
+2908,5,1,20,Jaipur,Villa,Unfurnished,20689648
+1538,4,1,9,Jaipur,Builder Floor,Unfurnished,9192323
+1032,3,2,0,Bangalore,Villa,Fully Furnished,12878874
+1628,2,1,0,Bangalore,Flat,Fully Furnished,16658325
+2960,5,3,12,Bangalore,Villa,Unfurnished,31792782
+2957,1,1,21,Mumbai,Villa,Unfurnished,42530538
+1386,3,3,24,Mumbai,Flat,Fully Furnished,18873237
+1270,1,3,8,Mumbai,Builder Floor,Semi-Furnished,15037650
+1004,2,1,7,Delhi,Builder Floor,Semi-Furnished,9777282
+1257,3,1,17,Pune,Flat,Semi-Furnished,9413512
+2088,4,3,26,Mumbai,Flat,Unfurnished,24771367
+2682,2,1,6,Pune,Builder Floor,Unfurnished,19896837
+1309,4,3,28,Mumbai,Villa,Fully Furnished,21501482
+1350,4,1,12,Mumbai,Flat,Fully Furnished,18590443
+2686,5,3,12,Mumbai,Flat,Unfurnished,32004711
+1079,3,1,3,Pune,Flat,Unfurnished,8218429
+1171,4,2,6,Delhi,Flat,Unfurnished,11766588
+2284,4,2,15,Delhi,Villa,Unfurnished,27139384
+1750,1,2,25,Jaipur,Villa,Semi-Furnished,12467441
+832,1,1,26,Jaipur,Villa,Unfurnished,5871708
+2891,4,3,16,Jaipur,Builder Floor,Fully Furnished,19977977
+2740,4,2,3,Delhi,Flat,Fully Furnished,31419879
+2482,5,3,14,Mumbai,Villa,Unfurnished,35409692
+2112,3,1,24,Mumbai,Flat,Unfurnished,25196885
+2303,2,2,18,Pune,Flat,Fully Furnished,19682249
+1656,5,1,21,Pune,Villa,Unfurnished,14517057
+2829,4,3,21,Jaipur,Builder Floor,Semi-Furnished,16827770
+1577,1,1,29,Delhi,Builder Floor,Unfurnished,15666767
+1267,1,3,5,Delhi,Flat,Fully Furnished,14335990
+1780,1,1,3,Pune,Builder Floor,Fully Furnished,15420371
+1223,3,2,1,Bangalore,Flat,Fully Furnished,12823154
+1019,5,3,0,Delhi,Villa,Semi-Furnished,12142058
+1426,3,2,7,Delhi,Flat,Semi-Furnished,14041219
+2706,5,2,27,Bangalore,Builder Floor,Semi-Furnished,24279527
+606,4,2,8,Delhi,Villa,Fully Furnished,8430496
+2004,5,3,23,Delhi,Builder Floor,Semi-Furnished,19918071
+2145,4,3,3,Delhi,Builder Floor,Fully Furnished,24574193
+1710,4,3,13,Delhi,Villa,Semi-Furnished,20536029
+2000,5,2,24,Jaipur,Flat,Fully Furnished,13439629
+563,5,2,15,Mumbai,Builder Floor,Fully Furnished,7504640
+1080,4,2,10,Bangalore,Villa,Unfurnished,11483468
+705,3,3,2,Mumbai,Builder Floor,Fully Furnished,9712734
+2846,4,1,13,Jaipur,Flat,Fully Furnished,19507406
+593,2,1,11,Pune,Villa,Unfurnished,5316375
+555,4,3,2,Mumbai,Villa,Unfurnished,7793086
+1283,5,1,7,Mumbai,Villa,Fully Furnished,21237415
+983,5,2,2,Bangalore,Villa,Fully Furnished,12272529
+849,5,1,24,Jaipur,Villa,Fully Furnished,6934745
+1972,2,1,15,Jaipur,Flat,Semi-Furnished,11834495
+1815,3,2,22,Jaipur,Flat,Fully Furnished,12286659
+1155,4,2,12,Delhi,Villa,Semi-Furnished,13801927
+892,1,1,30,Bangalore,Villa,Fully Furnished,10777438
+1483,1,1,22,Pune,Flat,Unfurnished,11031127
+896,2,2,12,Mumbai,Builder Floor,Unfurnished,10647818
+1315,2,3,24,Mumbai,Villa,Semi-Furnished,18685051
+2816,1,3,30,Mumbai,Villa,Semi-Furnished,40230490
+2495,1,1,5,Jaipur,Flat,Fully Furnished,17104081
+2694,5,3,10,Delhi,Builder Floor,Semi-Furnished,26655074
+971,3,3,18,Mumbai,Builder Floor,Semi-Furnished,11577075
+2103,4,2,27,Jaipur,Builder Floor,Semi-Furnished,12184415
+2077,3,3,17,Pune,Flat,Semi-Furnished,15461084
+1190,1,3,21,Delhi,Flat,Semi-Furnished,11861328
+3000,3,1,27,Bangalore,Flat,Semi-Furnished,26837142
+1350,1,2,21,Jaipur,Flat,Unfurnished,7790929
+1482,4,3,26,Pune,Villa,Semi-Furnished,13225305
+1489,2,2,25,Delhi,Villa,Fully Furnished,20244000
+2772,4,1,22,Mumbai,Builder Floor,Unfurnished,32874889
+755,3,2,6,Delhi,Villa,Fully Furnished,10451355
+1757,5,3,27,Delhi,Builder Floor,Unfurnished,17363054
+1237,5,3,11,Jaipur,Builder Floor,Semi-Furnished,7158723
+1883,3,3,18,Jaipur,Villa,Semi-Furnished,13289453
+1180,5,2,6,Pune,Builder Floor,Unfurnished,8947473
+2732,5,3,15,Mumbai,Flat,Unfurnished,32679807
+2319,4,2,4,Delhi,Builder Floor,Fully Furnished,26714500
+2177,4,3,12,Delhi,Builder Floor,Fully Furnished,24877406
+2772,3,2,1,Pune,Villa,Semi-Furnished,25024912
+879,2,1,9,Mumbai,Builder Floor,Unfurnished,10528028
+1867,4,1,29,Pune,Villa,Fully Furnished,19131469
+785,4,3,4,Jaipur,Builder Floor,Fully Furnished,5356354
+829,2,3,26,Delhi,Flat,Unfurnished,8050026
+2549,3,1,30,Bangalore,Villa,Fully Furnished,31325126
+761,2,3,29,Mumbai,Flat,Unfurnished,8667756
+614,2,1,30,Jaipur,Flat,Fully Furnished,3903687
+990,1,3,23,Pune,Flat,Semi-Furnished,7353669
+2986,2,2,9,Pune,Flat,Unfurnished,22187409
+807,5,1,15,Jaipur,Flat,Fully Furnished,5486275
+1732,1,1,27,Bangalore,Builder Floor,Fully Furnished,17813010
+1458,5,1,28,Mumbai,Builder Floor,Semi-Furnished,17025370
+657,4,3,10,Jaipur,Builder Floor,Semi-Furnished,3702392
+2670,1,2,15,Delhi,Builder Floor,Fully Furnished,30415742
+1900,3,2,19,Mumbai,Flat,Fully Furnished,26045367
+879,5,3,28,Jaipur,Villa,Semi-Furnished,5875970
+2972,2,3,30,Delhi,Flat,Fully Furnished,33821655
+1003,1,2,17,Mumbai,Flat,Fully Furnished,13787556
+2508,4,2,20,Mumbai,Flat,Unfurnished,29835899
+1746,3,3,22,Mumbai,Villa,Fully Furnished,28881854
+1173,2,1,23,Delhi,Flat,Semi-Furnished,11459981
+761,2,3,23,Delhi,Builder Floor,Semi-Furnished,7271808
+1592,5,1,22,Mumbai,Flat,Semi-Furnished,18908730
+1021,4,2,0,Delhi,Flat,Semi-Furnished,10093608
+2928,3,1,0,Mumbai,Villa,Fully Furnished,48592883
+2406,1,2,17,Bangalore,Villa,Semi-Furnished,25960568
+2847,5,1,1,Jaipur,Villa,Fully Furnished,23585241
+2812,3,1,11,Delhi,Villa,Unfurnished,33681086
+2455,3,1,14,Mumbai,Flat,Unfurnished,29225056
+665,2,3,5,Bangalore,Flat,Fully Furnished,6968722
+2497,2,2,6,Delhi,Villa,Unfurnished,30032913
+1909,4,3,17,Mumbai,Villa,Semi-Furnished,27199694
+2581,3,3,17,Pune,Builder Floor,Semi-Furnished,19326526
+1338,1,2,30,Bangalore,Flat,Semi-Furnished,11586471
+1459,1,2,5,Mumbai,Flat,Fully Furnished,20068094
+2864,1,3,30,Delhi,Flat,Unfurnished,28210970
+2691,3,2,0,Bangalore,Flat,Semi-Furnished,24212042
+2754,4,2,5,Mumbai,Builder Floor,Fully Furnished,37859523
+2382,3,3,29,Pune,Flat,Fully Furnished,20392381
+2042,1,3,1,Mumbai,Villa,Unfurnished,29251414
+1683,5,1,28,Jaipur,Villa,Fully Furnished,13485158
+589,2,3,13,Bangalore,Villa,Semi-Furnished,6043295
+656,3,1,19,Delhi,Villa,Fully Furnished,8787327
+844,3,1,21,Mumbai,Builder Floor,Unfurnished,9989905
+2702,3,3,1,Jaipur,Builder Floor,Unfurnished,16357103
+999,1,3,16,Delhi,Builder Floor,Fully Furnished,11505560
+689,5,3,0,Delhi,Flat,Semi-Furnished,6969209
+994,4,2,26,Mumbai,Builder Floor,Fully Furnished,13436759
+850,1,3,5,Jaipur,Flat,Fully Furnished,5932517
+2345,2,2,14,Delhi,Villa,Semi-Furnished,27809689
+2702,4,1,18,Bangalore,Villa,Semi-Furnished,28804696
+2183,4,1,19,Bangalore,Villa,Fully Furnished,26896577
+2112,2,3,22,Jaipur,Builder Floor,Fully Furnished,14451957
+586,4,1,28,Pune,Builder Floor,Fully Furnished,4870297
+2320,1,2,8,Jaipur,Builder Floor,Semi-Furnished,13976356
+598,4,2,12,Bangalore,Flat,Unfurnished,5190702
+1722,4,2,5,Jaipur,Villa,Semi-Furnished,12370086
+1142,2,2,1,Mumbai,Villa,Unfurnished,16290554
+843,5,3,29,Mumbai,Villa,Fully Furnished,13569427
+1110,4,2,19,Mumbai,Flat,Fully Furnished,15247899
+1398,1,2,15,Bangalore,Builder Floor,Semi-Furnished,12445977
+2887,4,3,30,Delhi,Flat,Fully Furnished,32771671
+1608,4,1,26,Delhi,Flat,Semi-Furnished,15694310
+975,1,2,15,Bangalore,Builder Floor,Fully Furnished,9744447
+1684,3,1,29,Pune,Flat,Unfurnished,12299134
+1763,3,3,19,Delhi,Flat,Unfurnished,17371297
+2081,4,1,7,Bangalore,Flat,Semi-Furnished,18515269
+2943,1,2,12,Delhi,Flat,Fully Furnished,33666617
+1402,4,3,29,Delhi,Villa,Semi-Furnished,16425261
+1831,4,3,26,Delhi,Villa,Fully Furnished,25114228
+2128,4,3,7,Bangalore,Flat,Semi-Furnished,18901266
+691,5,2,20,Bangalore,Flat,Unfurnished,6198358
+1997,4,2,6,Jaipur,Villa,Fully Furnished,16559360
+608,3,2,11,Bangalore,Flat,Unfurnished,5273575
+2717,3,1,11,Jaipur,Villa,Fully Furnished,22516475
+2602,1,2,5,Jaipur,Builder Floor,Fully Furnished,18028459
+978,2,2,29,Bangalore,Builder Floor,Unfurnished,8662256
+2139,1,2,21,Delhi,Builder Floor,Semi-Furnished,21025052
+1615,3,2,19,Bangalore,Flat,Fully Furnished,16392577
+1770,1,2,12,Jaipur,Villa,Unfurnished,12624981
+2029,4,2,30,Mumbai,Flat,Semi-Furnished,24071950
+991,1,2,1,Bangalore,Builder Floor,Fully Furnished,10210952
+2829,3,1,6,Bangalore,Villa,Semi-Furnished,30581934
+1436,2,3,16,Jaipur,Flat,Unfurnished,8494761
+2368,3,1,25,Pune,Flat,Fully Furnished,20372313
+568,1,3,28,Bangalore,Flat,Semi-Furnished,4842779
+925,4,2,21,Delhi,Builder Floor,Semi-Furnished,9229927
+794,4,3,18,Pune,Villa,Fully Furnished,8075907
+2969,3,1,3,Jaipur,Builder Floor,Unfurnished,17836095
+2655,4,1,23,Bangalore,Flat,Unfurnished,23613597
+2796,2,1,5,Jaipur,Flat,Semi-Furnished,16805893
+1305,2,1,16,Bangalore,Villa,Semi-Furnished,13743913
+1818,2,3,23,Bangalore,Flat,Unfurnished,16010899
+2995,2,1,8,Bangalore,Builder Floor,Semi-Furnished,26678213
+521,2,1,18,Delhi,Villa,Semi-Furnished,6270989
+2466,2,3,8,Bangalore,Flat,Fully Furnished,25253452
+2867,1,3,18,Mumbai,Flat,Unfurnished,34416247
+1766,3,2,13,Bangalore,Villa,Fully Furnished,21936814
+2787,5,1,25,Mumbai,Villa,Unfurnished,39988568
+2784,2,2,18,Pune,Villa,Semi-Furnished,24761335
+2504,4,3,27,Jaipur,Villa,Semi-Furnished,17702138
+2109,3,1,27,Bangalore,Villa,Unfurnished,22413449
+2002,3,3,30,Pune,Villa,Fully Furnished,20516660
+1108,5,3,3,Mumbai,Builder Floor,Unfurnished,13196935
+692,5,1,11,Jaipur,Villa,Unfurnished,5031291
+708,4,1,17,Mumbai,Villa,Unfurnished,10090124
+534,5,2,16,Bangalore,Flat,Semi-Furnished,4778544
+1372,1,3,23,Pune,Villa,Fully Furnished,13861933
+2869,1,2,4,Mumbai,Builder Floor,Fully Furnished,39445126
+2304,1,1,28,Jaipur,Flat,Semi-Furnished,13666526
+784,2,1,29,Bangalore,Villa,Unfurnished,8003868
+2887,5,2,29,Pune,Builder Floor,Unfurnished,21354699
+1662,4,2,16,Delhi,Villa,Unfurnished,19592627
+1751,1,3,19,Pune,Builder Floor,Semi-Furnished,12779967
+1552,3,2,27,Delhi,Villa,Semi-Furnished,18295270
+2054,4,3,14,Delhi,Flat,Fully Furnished,23597370
+1786,2,1,21,Delhi,Villa,Semi-Furnished,21142182
+2882,2,2,14,Jaipur,Villa,Fully Furnished,23608883
+1707,4,2,1,Jaipur,Flat,Fully Furnished,11726855
+2278,2,3,14,Jaipur,Villa,Semi-Furnished,16452156
+1067,5,1,27,Bangalore,Builder Floor,Unfurnished,9235483
+582,3,2,8,Mumbai,Builder Floor,Semi-Furnished,6938004
+2047,3,2,27,Pune,Builder Floor,Fully Furnished,17468590
+2202,3,1,22,Mumbai,Builder Floor,Unfurnished,26344444
+2769,2,2,1,Jaipur,Villa,Fully Furnished,22741200
+1977,2,2,28,Mumbai,Flat,Unfurnished,23479284
+1840,2,3,2,Delhi,Villa,Unfurnished,22086202
+2195,3,3,19,Mumbai,Flat,Unfurnished,26013279
+2583,5,1,15,Jaipur,Villa,Fully Furnished,21234052
+854,2,1,3,Pune,Villa,Unfurnished,7678644
+1108,2,2,19,Mumbai,Villa,Fully Furnished,18058429
+2762,2,2,11,Jaipur,Villa,Fully Furnished,22835051
+2999,1,3,15,Mumbai,Builder Floor,Fully Furnished,41214270
+593,4,2,25,Bangalore,Flat,Unfurnished,5212948
+743,5,1,16,Jaipur,Builder Floor,Unfurnished,4378679
+841,4,3,12,Jaipur,Villa,Semi-Furnished,5904888
+1748,5,3,17,Mumbai,Villa,Unfurnished,25196586
+2359,4,2,5,Jaipur,Flat,Unfurnished,14201938
+2441,4,2,11,Mumbai,Flat,Fully Furnished,33582264
+2090,2,1,3,Bangalore,Villa,Fully Furnished,26044642
+530,2,2,21,Mumbai,Villa,Fully Furnished,8380321
+794,4,2,8,Bangalore,Builder Floor,Unfurnished,7219418
+929,4,3,29,Bangalore,Villa,Unfurnished,9887263
+2506,5,3,25,Delhi,Builder Floor,Fully Furnished,28743297
+1644,1,3,26,Pune,Builder Floor,Unfurnished,12218785
+2524,2,1,21,Jaipur,Villa,Semi-Furnished,17961893
+2196,5,1,7,Jaipur,Flat,Fully Furnished,15109311
+1659,2,1,13,Bangalore,Flat,Fully Furnished,16889772
+2701,3,2,28,Pune,Villa,Semi-Furnished,23890152
+1953,1,1,30,Bangalore,Villa,Semi-Furnished,20596559
+1546,5,3,12,Mumbai,Builder Floor,Semi-Furnished,18432928
+2481,4,1,25,Mumbai,Villa,Fully Furnished,40813460
+2657,2,1,30,Delhi,Flat,Semi-Furnished,26180816
+1754,3,1,26,Mumbai,Villa,Unfurnished,25088127
+1245,4,2,20,Jaipur,Flat,Fully Furnished,8256601
+1466,4,2,20,Bangalore,Builder Floor,Semi-Furnished,12857060
+1121,3,2,1,Mumbai,Builder Floor,Semi-Furnished,13639152
+1806,1,3,8,Mumbai,Flat,Fully Furnished,24734880
+2544,3,1,15,Delhi,Villa,Unfurnished,30349917
+2131,5,2,23,Delhi,Builder Floor,Fully Furnished,24329057
+861,2,1,22,Pune,Builder Floor,Fully Furnished,7388937
+2166,4,3,1,Jaipur,Flat,Fully Furnished,14883893
+1930,5,3,17,Jaipur,Flat,Semi-Furnished,11454184
+812,1,2,22,Jaipur,Villa,Semi-Furnished,5428257
+749,4,1,27,Pune,Flat,Fully Furnished,6076960
+2664,3,1,16,Delhi,Builder Floor,Unfurnished,26563537
+1709,3,2,9,Pune,Builder Floor,Semi-Furnished,12566808
+1495,5,3,5,Bangalore,Villa,Unfurnished,15898971
+1773,4,3,22,Jaipur,Villa,Fully Furnished,14524967
+2324,1,1,13,Delhi,Flat,Semi-Furnished,23072355
+1839,4,2,23,Delhi,Builder Floor,Fully Furnished,20792486
+1183,3,2,19,Jaipur,Villa,Semi-Furnished,8182221
+2916,3,3,25,Bangalore,Builder Floor,Unfurnished,26110789
+819,3,1,24,Bangalore,Flat,Fully Furnished,8409595
+1759,2,3,10,Mumbai,Villa,Semi-Furnished,25283620
+1378,3,1,3,Delhi,Builder Floor,Semi-Furnished,13846410
+2890,2,1,21,Delhi,Villa,Unfurnished,34390638
+542,1,2,14,Bangalore,Villa,Fully Furnished,6482002
+1710,1,2,24,Pune,Builder Floor,Fully Furnished,14521027
+1294,4,2,18,Mumbai,Builder Floor,Semi-Furnished,15175635
+506,1,2,22,Pune,Flat,Fully Furnished,4052686
+1153,4,1,5,Delhi,Builder Floor,Semi-Furnished,11453188
+2644,3,1,9,Delhi,Villa,Semi-Furnished,31690073
+1885,4,2,13,Jaipur,Builder Floor,Unfurnished,11215211
+1516,3,2,21,Mumbai,Flat,Fully Furnished,20520387
+2280,2,2,20,Bangalore,Builder Floor,Semi-Furnished,20463992
+1646,1,2,12,Pune,Flat,Semi-Furnished,12324479
+1434,3,2,24,Bangalore,Flat,Unfurnished,12498144
+1044,1,2,13,Jaipur,Flat,Unfurnished,6062093
+1762,2,1,12,Pune,Flat,Fully Furnished,15011785
+1752,5,1,28,Mumbai,Flat,Semi-Furnished,20765855
+1308,2,1,28,Jaipur,Flat,Unfurnished,7427316
+1126,5,1,30,Bangalore,Builder Floor,Fully Furnished,11296297
+2698,5,3,24,Bangalore,Flat,Unfurnished,24119924
+836,2,2,2,Bangalore,Flat,Fully Furnished,8583369
+921,2,1,13,Bangalore,Builder Floor,Fully Furnished,9251463
+2117,1,3,26,Bangalore,Flat,Semi-Furnished,18813908
+2316,4,3,7,Mumbai,Villa,Fully Furnished,38315220
+2671,4,3,5,Delhi,Flat,Semi-Furnished,26582456
+1490,1,1,22,Mumbai,Villa,Unfurnished,21196103
+2557,3,3,27,Pune,Builder Floor,Fully Furnished,21918382
+1060,1,1,5,Mumbai,Flat,Unfurnished,12528399
+2477,2,1,3,Mumbai,Builder Floor,Semi-Furnished,29752706
+819,4,3,29,Mumbai,Villa,Semi-Furnished,11570459
+529,2,1,1,Pune,Builder Floor,Fully Furnished,4526096
+997,2,3,5,Jaipur,Flat,Unfurnished,6027291
+2991,4,3,30,Jaipur,Flat,Unfurnished,17556298
+2092,2,3,8,Bangalore,Villa,Semi-Furnished,22477074
+1887,2,2,16,Mumbai,Flat,Fully Furnished,25938258
+2946,5,2,25,Mumbai,Flat,Unfurnished,35260708
+1103,2,1,29,Mumbai,Flat,Semi-Furnished,13050104
+1356,4,3,15,Bangalore,Builder Floor,Semi-Furnished,12184030
+1537,4,1,2,Mumbai,Builder Floor,Unfurnished,18604678
+2346,1,2,15,Bangalore,Villa,Semi-Furnished,25009666
+2169,2,2,17,Jaipur,Villa,Semi-Furnished,15395119
+1203,2,1,24,Pune,Flat,Semi-Furnished,8819676
+2177,1,2,15,Jaipur,Villa,Semi-Furnished,15680298
+1001,3,1,16,Pune,Villa,Unfurnished,8989401
+991,5,3,14,Pune,Villa,Unfurnished,8580470
+1251,3,2,1,Delhi,Villa,Unfurnished,15094087
+2571,5,1,28,Jaipur,Builder Floor,Semi-Furnished,15108788
+2270,2,3,18,Delhi,Flat,Semi-Furnished,22506338
+2386,5,1,10,Pune,Builder Floor,Fully Furnished,20653919
+2730,1,3,4,Bangalore,Flat,Fully Furnished,28190367
+2186,3,1,25,Jaipur,Villa,Semi-Furnished,15654718
+2124,3,2,17,Jaipur,Flat,Unfurnished,12621982
+1800,1,1,4,Pune,Villa,Semi-Furnished,16017471
+1692,1,2,10,Pune,Villa,Fully Furnished,17258825
+2426,3,3,10,Jaipur,Builder Floor,Fully Furnished,16663959
+2694,2,2,16,Pune,Villa,Unfurnished,24246377
+1597,5,3,25,Jaipur,Builder Floor,Semi-Furnished,9211453
+2219,1,3,27,Jaipur,Flat,Unfurnished,12978671
+2746,5,3,3,Jaipur,Builder Floor,Semi-Furnished,16268598
+698,4,1,3,Delhi,Builder Floor,Semi-Furnished,6967304
+2261,1,2,23,Bangalore,Flat,Unfurnished,20270841
+2747,5,2,9,Mumbai,Flat,Semi-Furnished,32757596
+2508,4,3,25,Jaipur,Villa,Fully Furnished,20707088
+2493,5,2,6,Jaipur,Flat,Semi-Furnished,14994488
+1911,4,1,7,Jaipur,Builder Floor,Unfurnished,11439437
+1041,5,2,23,Pune,Flat,Unfurnished,7760820
+1446,3,2,26,Mumbai,Flat,Unfurnished,17133893
+1214,3,1,24,Delhi,Villa,Fully Furnished,16539637
+2159,3,1,28,Jaipur,Builder Floor,Semi-Furnished,12665887
+2084,1,2,20,Pune,Flat,Fully Furnished,17954076
+2725,4,3,17,Bangalore,Builder Floor,Unfurnished,24340919
+1988,5,3,19,Bangalore,Builder Floor,Semi-Furnished,17618067
+2566,5,2,26,Jaipur,Flat,Fully Furnished,17347627
+1952,2,3,8,Pune,Builder Floor,Fully Furnished,16825477
+2381,3,3,21,Jaipur,Villa,Semi-Furnished,16973122
+2707,4,3,15,Bangalore,Flat,Fully Furnished,27997927
+1216,1,1,12,Jaipur,Flat,Semi-Furnished,7180463
+932,3,2,21,Pune,Builder Floor,Semi-Furnished,6704261
+564,5,3,9,Pune,Villa,Fully Furnished,5711641
+2169,2,1,29,Pune,Villa,Fully Furnished,22034392
+2299,4,3,14,Delhi,Flat,Unfurnished,22990181
+1085,3,3,9,Bangalore,Flat,Semi-Furnished,9654986
+1925,4,3,2,Mumbai,Builder Floor,Fully Furnished,26520085
+1877,5,2,2,Bangalore,Villa,Unfurnished,20183451
+2188,1,2,29,Jaipur,Villa,Unfurnished,15380661
+2769,5,2,5,Jaipur,Villa,Semi-Furnished,19721284
+2389,4,2,15,Pune,Villa,Unfurnished,21163521
+894,3,1,12,Mumbai,Flat,Fully Furnished,12098720
+952,2,3,5,Jaipur,Villa,Unfurnished,6686845
+1057,3,1,9,Delhi,Villa,Fully Furnished,14598024
+2336,1,2,3,Jaipur,Villa,Fully Furnished,19121501
+2307,5,2,27,Delhi,Villa,Unfurnished,27285426
+2595,2,1,16,Bangalore,Villa,Unfurnished,27963860
+2350,2,2,14,Pune,Villa,Fully Furnished,24337213
+2286,2,3,30,Bangalore,Builder Floor,Fully Furnished,23462553
+2551,5,1,22,Delhi,Flat,Unfurnished,25124493
+2388,3,3,24,Delhi,Flat,Unfurnished,23770373
+1942,4,3,14,Pune,Flat,Semi-Furnished,14573454
+1613,4,1,7,Pune,Flat,Fully Furnished,13846187
+2397,5,2,5,Mumbai,Flat,Fully Furnished,32840738
+1674,2,3,15,Mumbai,Villa,Fully Furnished,27491072
+2906,2,1,23,Delhi,Flat,Semi-Furnished,28943223
+1908,4,2,0,Delhi,Builder Floor,Semi-Furnished,19180827
+1699,2,1,0,Delhi,Flat,Unfurnished,16958245
+2522,4,1,8,Jaipur,Builder Floor,Fully Furnished,17260106
+2561,4,3,20,Delhi,Villa,Semi-Furnished,30541586
+1179,1,3,23,Jaipur,Villa,Unfurnished,8405781
+1405,1,2,11,Jaipur,Villa,Unfurnished,10023504
+1695,4,2,29,Delhi,Builder Floor,Fully Furnished,19265671
+2565,3,2,12,Jaipur,Villa,Semi-Furnished,18439344
+2720,4,3,10,Delhi,Builder Floor,Semi-Furnished,27285404
+1997,2,1,7,Mumbai,Flat,Unfurnished,24074244
+531,2,3,14,Mumbai,Builder Floor,Fully Furnished,7242749
+1003,5,3,13,Mumbai,Flat,Fully Furnished,13809874
+2182,1,1,1,Bangalore,Villa,Fully Furnished,27175530
+592,5,2,3,Delhi,Builder Floor,Unfurnished,5729800
+2459,2,2,3,Delhi,Flat,Semi-Furnished,24609481
+2016,4,2,20,Delhi,Builder Floor,Fully Furnished,23103826
+2686,2,1,1,Delhi,Flat,Fully Furnished,31044035
+1479,1,3,17,Bangalore,Builder Floor,Semi-Furnished,13336552
+1114,3,3,26,Jaipur,Villa,Fully Furnished,9012769
+1555,2,3,14,Bangalore,Villa,Fully Furnished,19044613
+2258,1,2,5,Mumbai,Builder Floor,Fully Furnished,30963308
+1620,2,2,14,Pune,Villa,Fully Furnished,16710454
+764,4,1,4,Pune,Flat,Semi-Furnished,5615053
+833,2,3,14,Delhi,Builder Floor,Fully Furnished,9409555
+1711,5,1,30,Mumbai,Builder Floor,Semi-Furnished,20227419
+1443,5,3,4,Delhi,Builder Floor,Unfurnished,14583357
+2284,5,1,13,Bangalore,Builder Floor,Fully Furnished,23555132
+1228,1,2,10,Mumbai,Villa,Fully Furnished,20182632
+1055,5,2,25,Mumbai,Flat,Fully Furnished,14273437
+995,4,1,15,Mumbai,Flat,Unfurnished,11918540
+1592,3,2,29,Bangalore,Villa,Semi-Furnished,16881943
+1286,3,1,29,Mumbai,Villa,Unfurnished,18364298
+2794,1,1,12,Bangalore,Villa,Fully Furnished,34729582
+2981,4,1,14,Jaipur,Villa,Unfurnished,21321754
+1739,4,1,22,Jaipur,Villa,Unfurnished,12376457
+686,1,1,2,Pune,Flat,Semi-Furnished,5088625
+2874,1,1,0,Mumbai,Flat,Semi-Furnished,34653489
+1071,4,2,22,Mumbai,Builder Floor,Fully Furnished,14562453
+2290,5,1,24,Delhi,Villa,Fully Furnished,31395253
+1758,5,3,22,Pune,Villa,Unfurnished,15711333
+1675,1,2,29,Jaipur,Flat,Unfurnished,9698541
+1665,3,2,9,Bangalore,Builder Floor,Semi-Furnished,14858381
+1734,5,1,14,Mumbai,Villa,Fully Furnished,28653173
+2851,1,2,27,Delhi,Villa,Fully Furnished,38950364
+1954,5,1,0,Mumbai,Builder Floor,Fully Furnished,26904010
+636,1,2,5,Bangalore,Builder Floor,Semi-Furnished,5622959
+1599,1,3,23,Pune,Villa,Fully Furnished,16182132
+1633,3,1,6,Mumbai,Flat,Unfurnished,19647327
+2123,3,3,22,Bangalore,Builder Floor,Semi-Furnished,18716016
+1353,4,1,7,Delhi,Flat,Semi-Furnished,13595111
+2094,5,2,20,Pune,Villa,Unfurnished,18483737
+1906,2,3,4,Pune,Flat,Fully Furnished,16354704
+933,2,1,2,Delhi,Flat,Unfurnished,9427436
+1000,1,1,1,Bangalore,Flat,Semi-Furnished,8795100
+652,4,2,0,Delhi,Flat,Semi-Furnished,6439704
+2127,3,1,30,Delhi,Villa,Semi-Furnished,25365904
+2952,3,1,12,Delhi,Flat,Semi-Furnished,29533119
+1789,1,3,14,Jaipur,Villa,Semi-Furnished,12918857
+931,5,3,23,Delhi,Villa,Semi-Furnished,10999458
+1353,3,1,14,Delhi,Builder Floor,Unfurnished,13205400
+2923,3,3,19,Pune,Flat,Unfurnished,21782254
+625,2,1,19,Jaipur,Villa,Fully Furnished,4970459
+1190,2,3,25,Bangalore,Flat,Fully Furnished,11983081
+1253,3,3,25,Pune,Villa,Fully Furnished,12783808
+642,5,2,2,Mumbai,Builder Floor,Semi-Furnished,7629812
+1956,4,3,28,Bangalore,Builder Floor,Semi-Furnished,17259046
+1831,2,1,17,Bangalore,Villa,Unfurnished,19501350
+2682,2,1,24,Mumbai,Builder Floor,Fully Furnished,36893051
+2491,3,1,21,Pune,Builder Floor,Unfurnished,18614939
+636,2,2,27,Jaipur,Villa,Unfurnished,4133767
+1249,2,3,14,Mumbai,Flat,Unfurnished,14990996
+2693,5,3,18,Mumbai,Villa,Fully Furnished,44460469
+2812,1,2,20,Jaipur,Builder Floor,Semi-Furnished,16626710
+2206,1,2,23,Mumbai,Builder Floor,Fully Furnished,30302329
+2688,2,3,2,Jaipur,Villa,Unfurnished,19415853
+1034,1,1,22,Pune,Builder Floor,Semi-Furnished,7631379
+863,3,3,6,Pune,Villa,Fully Furnished,8859588
+555,1,1,7,Mumbai,Builder Floor,Semi-Furnished,6399131
+2530,5,2,28,Mumbai,Builder Floor,Fully Furnished,34702763
+781,3,1,27,Mumbai,Builder Floor,Fully Furnished,10324927
+2833,2,1,30,Delhi,Villa,Fully Furnished,38951433
+1608,3,2,16,Delhi,Builder Floor,Fully Furnished,18423878
+1286,2,3,24,Delhi,Villa,Unfurnished,15033561
+2701,1,1,25,Pune,Builder Floor,Fully Furnished,22893587
+2688,4,2,6,Delhi,Flat,Fully Furnished,30756002
+2004,1,3,5,Mumbai,Flat,Fully Furnished,27734474
+553,2,3,21,Mumbai,Villa,Semi-Furnished,7583680
+2573,1,3,11,Bangalore,Flat,Unfurnished,23191057
+1363,4,2,19,Bangalore,Villa,Semi-Furnished,14504742
+1395,4,2,30,Pune,Flat,Semi-Furnished,10327437
+910,4,3,24,Delhi,Villa,Unfurnished,10746095
+1215,5,3,3,Delhi,Flat,Fully Furnished,13984913
+1617,4,2,24,Delhi,Flat,Fully Furnished,18165877
+2989,1,2,1,Pune,Villa,Semi-Furnished,26692629
+2315,1,2,0,Bangalore,Builder Floor,Semi-Furnished,20680165
+540,5,3,16,Jaipur,Villa,Fully Furnished,4293620
+1417,4,2,18,Jaipur,Builder Floor,Semi-Furnished,8211145
+1929,2,3,7,Jaipur,Flat,Unfurnished,11423360
+1269,3,1,23,Delhi,Villa,Semi-Furnished,14868541
+1985,1,3,24,Mumbai,Flat,Unfurnished,23707307
+2401,5,1,24,Mumbai,Builder Floor,Unfurnished,28656454
+2246,1,3,30,Bangalore,Villa,Unfurnished,23815261
+2567,3,1,9,Jaipur,Builder Floor,Unfurnished,15225965
+2684,2,3,0,Pune,Builder Floor,Semi-Furnished,20215726
+2650,2,2,13,Pune,Builder Floor,Unfurnished,19927981
+2038,4,2,4,Mumbai,Flat,Unfurnished,24580736
+2845,1,2,26,Pune,Villa,Unfurnished,25181980
+2566,5,2,30,Mumbai,Builder Floor,Unfurnished,30531896
+2753,4,1,6,Pune,Flat,Fully Furnished,23682937
+2070,5,1,10,Delhi,Villa,Fully Furnished,28529844
+1044,1,3,0,Jaipur,Flat,Unfurnished,6440179
+956,5,2,2,Mumbai,Flat,Unfurnished,11359899
+1864,4,2,17,Pune,Villa,Unfurnished,16569807
+2018,5,1,5,Jaipur,Villa,Semi-Furnished,14472317
+1001,3,1,24,Pune,Flat,Unfurnished,7272324
+2322,5,1,10,Delhi,Flat,Fully Furnished,26418888
+912,5,2,11,Bangalore,Flat,Fully Furnished,9410969
+1337,5,3,7,Bangalore,Flat,Fully Furnished,13646043
+2581,3,2,12,Pune,Builder Floor,Unfurnished,19133847
+1521,2,3,9,Jaipur,Builder Floor,Unfurnished,9108971
+2240,1,1,28,Jaipur,Builder Floor,Fully Furnished,15147465
+1520,5,1,8,Pune,Villa,Unfurnished,13616450
+1294,2,1,1,Pune,Builder Floor,Fully Furnished,11201999
+1876,5,2,29,Jaipur,Builder Floor,Fully Furnished,12605653
+2586,2,1,24,Bangalore,Villa,Semi-Furnished,27737453
+1977,3,2,29,Bangalore,Villa,Unfurnished,21029752
+1278,1,3,20,Bangalore,Flat,Fully Furnished,13062513
+2826,3,2,23,Pune,Villa,Semi-Furnished,25330974
+1808,1,3,28,Pune,Villa,Semi-Furnished,16094360
+720,4,1,27,Bangalore,Builder Floor,Semi-Furnished,6285871
+668,5,3,17,Pune,Flat,Fully Furnished,5707461
+2745,1,2,20,Jaipur,Builder Floor,Semi-Furnished,16355555
+2257,4,3,29,Bangalore,Villa,Semi-Furnished,24016333
+2887,2,1,18,Delhi,Villa,Unfurnished,34547442
+1357,5,1,8,Jaipur,Flat,Unfurnished,8187022
+1199,5,2,7,Pune,Builder Floor,Unfurnished,9081722
+938,1,3,12,Delhi,Flat,Fully Furnished,10722830
+2916,2,1,15,Pune,Builder Floor,Unfurnished,21876317
+1892,5,1,2,Mumbai,Builder Floor,Unfurnished,22609574
+1947,4,2,16,Mumbai,Villa,Fully Furnished,32146596
+966,2,3,5,Delhi,Villa,Fully Furnished,13160409
+2116,2,1,9,Bangalore,Villa,Unfurnished,22785840
+1334,1,3,17,Jaipur,Flat,Semi-Furnished,7954760
+2305,3,1,19,Bangalore,Builder Floor,Unfurnished,20375207
+2789,3,3,28,Pune,Villa,Semi-Furnished,24683094
+1436,3,3,5,Bangalore,Flat,Semi-Furnished,12953695
+819,1,1,13,Pune,Builder Floor,Unfurnished,6025641
+904,3,3,14,Jaipur,Villa,Fully Furnished,7307232
+1823,4,1,28,Mumbai,Villa,Unfurnished,25872064
+1471,4,2,11,Pune,Villa,Fully Furnished,15245923
+2286,3,1,23,Bangalore,Villa,Unfurnished,24327956
+2974,4,1,7,Jaipur,Builder Floor,Fully Furnished,20258013
+2073,3,3,13,Bangalore,Builder Floor,Fully Furnished,21233143
+1862,2,1,3,Delhi,Flat,Semi-Furnished,18467871
+1752,3,1,4,Mumbai,Flat,Fully Furnished,24019247
+687,2,2,5,Jaipur,Builder Floor,Semi-Furnished,4084374
+2006,4,2,14,Mumbai,Villa,Fully Furnished,33068201
+1921,5,3,6,Mumbai,Flat,Fully Furnished,26576729
+617,5,2,24,Delhi,Builder Floor,Fully Furnished,6869716
+845,3,1,8,Jaipur,Villa,Semi-Furnished,6119957
+2436,5,3,5,Delhi,Builder Floor,Unfurnished,24253123
+2365,2,2,18,Pune,Villa,Unfurnished,20970855
+1105,3,1,29,Delhi,Flat,Semi-Furnished,10815140
+749,2,3,6,Bangalore,Builder Floor,Fully Furnished,7775866
+2618,2,2,24,Bangalore,Flat,Semi-Furnished,23385521
+823,1,1,18,Bangalore,Builder Floor,Unfurnished,7374949
+617,1,1,23,Bangalore,Villa,Fully Furnished,7323879
+2013,1,2,30,Jaipur,Flat,Fully Furnished,13694361
+1561,2,3,24,Mumbai,Villa,Unfurnished,22314508
+628,3,1,19,Delhi,Builder Floor,Semi-Furnished,6171016
+2142,1,1,8,Bangalore,Flat,Fully Furnished,22022229
+2406,2,2,2,Delhi,Builder Floor,Fully Furnished,27546224
+1562,4,2,8,Jaipur,Villa,Unfurnished,11036858
+2724,5,3,4,Bangalore,Flat,Fully Furnished,28110811
+882,2,3,18,Pune,Villa,Unfurnished,7903078
+2364,1,3,6,Pune,Builder Floor,Fully Furnished,20191281
+2143,3,2,13,Bangalore,Villa,Fully Furnished,26378296
+2400,2,3,13,Bangalore,Flat,Unfurnished,21382474
+2367,5,3,26,Bangalore,Villa,Semi-Furnished,25317894
+2287,1,3,18,Mumbai,Builder Floor,Semi-Furnished,27223232
+890,5,3,14,Bangalore,Builder Floor,Semi-Furnished,7867011
+1256,3,2,26,Jaipur,Villa,Unfurnished,8650000
+2645,3,1,16,Jaipur,Builder Floor,Semi-Furnished,15848539
+1697,4,2,20,Pune,Flat,Semi-Furnished,12422523
+2037,3,1,12,Jaipur,Builder Floor,Semi-Furnished,12300775
+1665,5,1,21,Delhi,Flat,Fully Furnished,19116963
+887,3,1,5,Delhi,Builder Floor,Unfurnished,8925034
+2049,1,2,7,Pune,Villa,Unfurnished,18260770
+1621,5,2,14,Jaipur,Villa,Unfurnished,11414782
+530,4,3,6,Jaipur,Flat,Fully Furnished,3773685
+1063,1,3,27,Jaipur,Villa,Semi-Furnished,7493102
+1509,3,3,19,Delhi,Villa,Fully Furnished,20741795
+1146,4,1,19,Pune,Builder Floor,Fully Furnished,9732099
+2590,5,2,29,Pune,Flat,Semi-Furnished,19243047
+1733,3,2,14,Pune,Builder Floor,Fully Furnished,14843639
+2468,5,3,16,Bangalore,Builder Floor,Semi-Furnished,22224592
+2364,3,1,3,Pune,Flat,Semi-Furnished,17715188
+562,5,2,20,Jaipur,Villa,Fully Furnished,4525604
+631,2,2,4,Jaipur,Villa,Unfurnished,4656494
+2391,1,2,24,Pune,Builder Floor,Semi-Furnished,17584097
+2492,1,2,23,Jaipur,Villa,Semi-Furnished,17519817
+670,1,3,1,Jaipur,Flat,Fully Furnished,4546490
+2558,3,3,14,Mumbai,Builder Floor,Semi-Furnished,30679391
+2484,2,3,3,Delhi,Villa,Fully Furnished,34199048
+1992,2,2,10,Delhi,Villa,Unfurnished,23757861
+1861,2,3,19,Mumbai,Builder Floor,Fully Furnished,25529625
+1496,1,3,14,Pune,Flat,Unfurnished,11181240
+1444,5,2,30,Mumbai,Flat,Unfurnished,17107448
+632,1,2,27,Bangalore,Villa,Unfurnished,6658904
+2007,1,1,21,Bangalore,Builder Floor,Unfurnished,17999047
+2187,2,3,23,Mumbai,Builder Floor,Unfurnished,26023602
+1899,5,3,20,Delhi,Flat,Semi-Furnished,18910852
+2095,2,3,14,Mumbai,Flat,Unfurnished,25143977
+1902,4,2,4,Delhi,Villa,Semi-Furnished,22953501
+1185,3,3,18,Pune,Villa,Fully Furnished,11908438
+2979,2,1,9,Jaipur,Flat,Fully Furnished,20500387
+542,2,1,21,Pune,Villa,Unfurnished,4658616
+2115,1,2,18,Jaipur,Villa,Unfurnished,15055677
+694,3,2,2,Bangalore,Builder Floor,Fully Furnished,7023813
+2089,2,2,15,Jaipur,Villa,Unfurnished,14709058
+1657,1,3,29,Mumbai,Villa,Fully Furnished,26971982
+884,1,1,27,Mumbai,Flat,Unfurnished,10167348
+2697,5,1,15,Delhi,Flat,Unfurnished,26909344
+1168,1,2,21,Jaipur,Builder Floor,Semi-Furnished,6803434
+1640,2,3,20,Pune,Villa,Fully Furnished,16602787
+1544,3,3,4,Pune,Flat,Fully Furnished,13323915
+2612,2,3,4,Pune,Villa,Fully Furnished,26943411
+2149,5,1,29,Pune,Builder Floor,Unfurnished,15916495
+2794,5,1,25,Bangalore,Villa,Semi-Furnished,29951073
+645,5,3,8,Bangalore,Builder Floor,Semi-Furnished,5758432
+2882,2,2,9,Delhi,Builder Floor,Fully Furnished,33246115
+554,5,1,12,Pune,Builder Floor,Fully Furnished,4644925
+966,1,3,22,Mumbai,Builder Floor,Semi-Furnished,11262399
+2568,2,3,0,Delhi,Flat,Unfurnished,25811186
+1849,2,3,13,Delhi,Builder Floor,Semi-Furnished,18347805
+1457,4,1,12,Pune,Flat,Semi-Furnished,10728814
+2542,3,3,15,Pune,Builder Floor,Semi-Furnished,18801233
+2865,1,1,27,Mumbai,Villa,Semi-Furnished,40962277
+2627,4,3,5,Pune,Villa,Fully Furnished,27302932
+1998,5,3,0,Mumbai,Flat,Semi-Furnished,24108875
+1493,5,2,15,Mumbai,Flat,Semi-Furnished,17821415
+1558,2,2,15,Bangalore,Villa,Semi-Furnished,16636073
+1140,4,3,3,Jaipur,Villa,Semi-Furnished,8044636
+852,1,3,16,Jaipur,Flat,Unfurnished,4951445
+2039,1,3,9,Pune,Villa,Unfurnished,18378947
+2798,3,3,8,Pune,Villa,Semi-Furnished,25145571
+1194,5,3,19,Bangalore,Builder Floor,Fully Furnished,12345506
+2791,4,2,26,Mumbai,Villa,Unfurnished,39818914
+2960,2,1,16,Delhi,Builder Floor,Semi-Furnished,29258813
+2179,2,1,15,Delhi,Flat,Semi-Furnished,21477480
+2013,2,1,27,Delhi,Villa,Fully Furnished,27566503
+2216,3,1,13,Jaipur,Builder Floor,Semi-Furnished,13042195
+676,4,2,25,Mumbai,Builder Floor,Fully Furnished,8891713
+813,1,2,20,Bangalore,Builder Floor,Unfurnished,7232060
+2181,5,2,17,Pune,Villa,Unfurnished,19442536
+541,2,1,13,Jaipur,Flat,Semi-Furnished,2948880
+1713,3,2,4,Jaipur,Villa,Fully Furnished,14323754
+2415,2,3,21,Jaipur,Villa,Semi-Furnished,17360522
+2907,1,1,17,Delhi,Builder Floor,Unfurnished,28728102
+846,1,1,16,Mumbai,Villa,Unfurnished,11952504
+2612,5,1,21,Mumbai,Builder Floor,Unfurnished,31105477
+2013,4,2,24,Delhi,Builder Floor,Unfurnished,19815511
+891,4,2,19,Bangalore,Flat,Semi-Furnished,7817987
+1575,5,3,29,Delhi,Villa,Semi-Furnished,18519054
+645,5,1,18,Pune,Villa,Semi-Furnished,5563114
+1386,2,3,30,Mumbai,Villa,Fully Furnished,22803447
+731,3,1,30,Delhi,Flat,Fully Furnished,8091839
+2340,3,1,6,Bangalore,Villa,Unfurnished,25223700
+1000,2,2,12,Delhi,Flat,Semi-Furnished,10001377
+2927,4,3,16,Mumbai,Flat,Unfurnished,35142625
+2951,3,1,12,Pune,Flat,Semi-Furnished,22075466
+2538,4,1,14,Jaipur,Flat,Unfurnished,15080523
+1531,3,2,15,Delhi,Builder Floor,Unfurnished,15081232
+1871,2,2,9,Jaipur,Builder Floor,Fully Furnished,12985732
+767,1,3,26,Jaipur,Villa,Fully Furnished,6049359
+2560,2,1,2,Bangalore,Builder Floor,Fully Furnished,26283754
+1915,2,1,2,Delhi,Flat,Fully Furnished,22063010
+892,5,3,3,Mumbai,Flat,Semi-Furnished,10510107
+911,2,3,17,Mumbai,Builder Floor,Fully Furnished,12470106
+1550,5,1,14,Mumbai,Builder Floor,Unfurnished,18263095
+2302,3,1,9,Pune,Builder Floor,Semi-Furnished,17208164
+2422,2,1,13,Pune,Flat,Semi-Furnished,18043735
+1737,3,2,15,Jaipur,Flat,Unfurnished,10255190
+927,1,3,28,Mumbai,Builder Floor,Semi-Furnished,10923351
+2360,1,2,28,Delhi,Builder Floor,Semi-Furnished,23177447
+1669,4,1,12,Delhi,Villa,Fully Furnished,22755882
+1878,4,1,10,Jaipur,Flat,Semi-Furnished,11172642
+1834,1,2,12,Pune,Flat,Semi-Furnished,13741408
+703,1,3,7,Delhi,Villa,Semi-Furnished,8167922
+1614,4,2,10,Mumbai,Builder Floor,Semi-Furnished,19164847
+1141,4,2,15,Mumbai,Flat,Semi-Furnished,13588418
+1564,4,2,23,Jaipur,Flat,Unfurnished,8960021
+1185,1,2,19,Mumbai,Flat,Semi-Furnished,13928541
+1616,4,2,23,Bangalore,Villa,Unfurnished,17197170
+800,4,3,22,Delhi,Villa,Fully Furnished,10991571
+2433,2,1,22,Mumbai,Flat,Fully Furnished,33377577
+2111,2,3,9,Pune,Builder Floor,Semi-Furnished,15548634
+702,5,2,21,Mumbai,Villa,Unfurnished,10059983
+2774,3,2,22,Mumbai,Builder Floor,Fully Furnished,37989337
+2925,2,3,30,Delhi,Flat,Unfurnished,29002223
+2566,5,3,3,Jaipur,Builder Floor,Semi-Furnished,15523331
+1302,5,2,27,Bangalore,Builder Floor,Fully Furnished,13397565
+2836,5,3,1,Pune,Villa,Unfurnished,25463497
+2612,2,3,25,Jaipur,Villa,Semi-Furnished,18670868
+679,1,3,11,Jaipur,Villa,Semi-Furnished,4944837
+1971,3,1,7,Bangalore,Villa,Fully Furnished,24595655
+577,2,3,14,Pune,Flat,Fully Furnished,4792812
+2336,5,1,12,Jaipur,Builder Floor,Semi-Furnished,13952780
+951,2,2,8,Mumbai,Builder Floor,Fully Furnished,13194403
+1791,2,2,11,Jaipur,Flat,Semi-Furnished,10473592
+2934,5,3,30,Jaipur,Builder Floor,Fully Furnished,19790578
+2973,2,1,30,Delhi,Builder Floor,Fully Furnished,33846342
+2488,4,2,3,Mumbai,Flat,Semi-Furnished,29717408
+2628,3,2,13,Bangalore,Villa,Unfurnished,28277347
+2722,3,2,16,Mumbai,Flat,Semi-Furnished,32345356
+2420,2,3,18,Pune,Villa,Semi-Furnished,21573118
+1493,2,2,7,Mumbai,Flat,Fully Furnished,20614046
+1859,5,1,23,Jaipur,Flat,Semi-Furnished,11023313
+1476,1,3,8,Mumbai,Villa,Semi-Furnished,21019766
+664,5,2,23,Mumbai,Builder Floor,Unfurnished,7891433
+2137,3,1,25,Delhi,Builder Floor,Semi-Furnished,20963429
+2264,5,3,23,Pune,Villa,Fully Furnished,23360302
+1044,4,1,6,Jaipur,Villa,Fully Furnished,8417105
+1128,5,2,2,Delhi,Builder Floor,Semi-Furnished,11320368
+2802,1,2,24,Bangalore,Builder Floor,Semi-Furnished,24916072
+1619,4,1,8,Jaipur,Builder Floor,Fully Furnished,11061425
+2196,4,2,14,Jaipur,Builder Floor,Fully Furnished,14931554
+596,5,2,12,Bangalore,Flat,Semi-Furnished,5161341
+1007,4,1,30,Mumbai,Villa,Fully Furnished,16454391
+1454,2,3,6,Jaipur,Flat,Fully Furnished,9868263
+2378,4,3,14,Bangalore,Villa,Unfurnished,25462539
+1818,1,2,8,Pune,Flat,Unfurnished,13652494
+1816,5,1,1,Pune,Builder Floor,Fully Furnished,15626431
+1113,4,1,2,Delhi,Builder Floor,Fully Furnished,12786979
+2855,2,3,8,Pune,Builder Floor,Semi-Furnished,21209260
+1614,2,3,10,Pune,Builder Floor,Semi-Furnished,11908808
+974,3,2,2,Mumbai,Builder Floor,Unfurnished,11543064
+1348,4,3,29,Delhi,Villa,Unfurnished,15940621
+2709,3,1,5,Delhi,Builder Floor,Fully Furnished,30948693
+2731,5,3,0,Jaipur,Builder Floor,Semi-Furnished,16514767
+2995,5,1,11,Delhi,Flat,Fully Furnished,34426837
+1793,5,2,27,Bangalore,Flat,Semi-Furnished,15721497
+1599,2,3,16,Bangalore,Builder Floor,Unfurnished,14084347
+543,3,1,1,Bangalore,Villa,Semi-Furnished,5665662
+1767,1,1,0,Pune,Flat,Unfurnished,13096935
+1011,2,2,28,Mumbai,Builder Floor,Unfurnished,11874042
+2140,3,1,30,Bangalore,Villa,Semi-Furnished,22788174
+2822,3,1,28,Bangalore,Flat,Unfurnished,25022804
+1947,3,1,28,Pune,Builder Floor,Fully Furnished,16584631
+2068,4,1,27,Jaipur,Flat,Fully Furnished,14044413
+2897,4,3,28,Jaipur,Builder Floor,Unfurnished,17284980
+1864,4,2,7,Mumbai,Villa,Unfurnished,26667992
+1153,5,3,5,Jaipur,Flat,Semi-Furnished,6720828
+1873,2,2,25,Jaipur,Flat,Fully Furnished,12506586
+1774,1,3,11,Mumbai,Builder Floor,Semi-Furnished,21211159
+1832,4,2,26,Delhi,Villa,Fully Furnished,25071981
+2142,1,3,3,Pune,Flat,Fully Furnished,18471341
+698,2,2,1,Mumbai,Villa,Unfurnished,9905662
+2438,2,3,1,Bangalore,Villa,Semi-Furnished,26373820
+776,3,2,9,Delhi,Flat,Fully Furnished,8720622
+2458,5,1,13,Pune,Villa,Unfurnished,22074810
+2712,1,2,2,Mumbai,Villa,Fully Furnished,44788426
+1454,4,1,27,Delhi,Flat,Fully Furnished,16622931
+1285,5,3,17,Delhi,Villa,Semi-Furnished,15079169
+580,3,1,8,Bangalore,Flat,Unfurnished,4947278
+616,1,2,30,Jaipur,Villa,Semi-Furnished,4163851
+2694,2,1,5,Pune,Villa,Semi-Furnished,24237188
+2697,5,3,9,Mumbai,Flat,Unfurnished,32417393
+1337,4,1,11,Mumbai,Builder Floor,Fully Furnished,18183184
+1228,2,2,17,Mumbai,Villa,Unfurnished,17320400
+870,2,2,7,Pune,Flat,Semi-Furnished,6626132
+2555,5,2,28,Jaipur,Builder Floor,Semi-Furnished,15044189
+2860,4,1,5,Pune,Flat,Unfurnished,21459491
+1319,4,1,30,Jaipur,Flat,Fully Furnished,8917529
+2112,1,2,29,Pune,Villa,Semi-Furnished,18827707
+1808,5,2,10,Pune,Builder Floor,Fully Furnished,15591685
+570,2,3,13,Jaipur,Builder Floor,Fully Furnished,3989061
+1393,2,1,17,Pune,Villa,Unfurnished,12277977
+2152,2,3,27,Bangalore,Builder Floor,Unfurnished,19172161
+937,4,1,3,Mumbai,Villa,Unfurnished,13305594
+1495,4,3,9,Delhi,Flat,Semi-Furnished,14845585
+2429,1,2,0,Delhi,Flat,Unfurnished,24243436
+739,3,1,7,Bangalore,Builder Floor,Fully Furnished,7709915
+2884,5,2,2,Pune,Flat,Unfurnished,21661685
+1784,5,3,29,Mumbai,Flat,Semi-Furnished,21263062
+2339,4,3,3,Jaipur,Flat,Unfurnished,14043876
+1441,4,3,7,Pune,Builder Floor,Fully Furnished,12379241
+2061,3,3,20,Jaipur,Flat,Unfurnished,12188042
+2805,4,1,2,Bangalore,Flat,Semi-Furnished,25109466
+968,4,3,25,Delhi,Flat,Unfurnished,9497747
+2336,2,2,2,Mumbai,Villa,Fully Furnished,38758214
+2270,3,1,23,Pune,Builder Floor,Unfurnished,16951106
+1345,1,2,2,Pune,Villa,Fully Furnished,13751526
+1405,5,1,27,Mumbai,Villa,Semi-Furnished,19953669
+1495,1,2,13,Mumbai,Villa,Semi-Furnished,21420582
+2941,5,3,25,Pune,Flat,Unfurnished,21979000
+1444,2,2,7,Mumbai,Villa,Semi-Furnished,20631657
+1977,2,2,9,Jaipur,Builder Floor,Unfurnished,11970427
+1260,2,1,28,Pune,Builder Floor,Fully Furnished,10511088
+1830,3,3,3,Mumbai,Builder Floor,Semi-Furnished,21835175
+1793,1,3,8,Delhi,Flat,Semi-Furnished,17996969
+2620,4,3,1,Jaipur,Villa,Unfurnished,18736447
